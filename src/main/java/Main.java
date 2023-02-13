@@ -5,7 +5,7 @@ import servers.SingleThreadedServer;
 public class Main {
 
     //true = singleThread, false= multithread
-    private static boolean singleThread = false;
+    private static boolean singleThread = true;
     private static int serverPort = 8080;
 
 
