@@ -3,7 +3,6 @@ package booking;
 public class MovieTicketServer {
     private String movieName;
     private int availableSeats;
-    private Object lock = new Object(); // Added lock object for synchronization
 
     public MovieTicketServer(String movieName, int availableSeats) {
         this.movieName = movieName;
