@@ -9,4 +9,4 @@ singlethreaded took 16 seconds,
 multithread took 8, as was set:)
 ![image](https://user-images.githubusercontent.com/43517080/218351221-5cb0bedf-3d9e-4194-94d4-eb39ebd51237.png)
 
-overall it takes twice as much in the singlethreaded vs the multhtreaded server
+overall it took twice as much in the singlethreaded vs the multhtreaded server
