@@ -14,7 +14,7 @@ The bookTicket method is being accessed by multiple threads simultaneously, with
 
 ## What to change
 
-we need to add Object lock to the MovieTicketServer and make bookTicket method synchronized method
+we need to make bookTicket method synchronized method
 
 this fixes the problem
 
